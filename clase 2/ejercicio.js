@@ -1,4 +1,4 @@
-const num = [8,5,6,6,1,7,4]
+const num = [8,5,6,6,1,7,4,10,20]
 
 function getMax (num){
     let result = num.reduce((accum,item)=>{
