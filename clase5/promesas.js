@@ -7,5 +7,5 @@ promesa
         console.log('Resultado', unValor)
 })
     .catch((unError)=>{
-        console.log("El error es:", unError)
+        console.log("El error es:", unError);
     })
