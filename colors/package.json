@@ -1,0 +1,16 @@
+{
+  "name": "colors",
+  "version": "1.0.0",
+  "description": "Example how to use npm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "kodemia": "echo \"Hola Koders!\" && touch kodemia.txt"
+  },
+  "author": "Alan Guerrero",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
