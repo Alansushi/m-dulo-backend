@@ -1,23 +1,23 @@
 {
   "koders": [
     {
-      "nombre": "Aaron",
+      "nombre": "Roberto",
+      "edad": 15,
       "genero": "masculino"
     },
     {
-      "nombre": "Roberto",
+      "nombre": "Nestor",
+      "edad": 16,
+      "genero": "masculino"
+    },
+    {
+      "nombre": "José",
+      "edad": 30,
       "genero": "masculino"
     },
     {
       "nombre": "Alan",
-      "genero": "masculino"
-    },
-    {
-      "nombre": "José",
-      "genero": "masculino"
-    },
-    {
-      "nombre": "José",
+      "edad": 24,
       "genero": "masculino"
     }
   ]
