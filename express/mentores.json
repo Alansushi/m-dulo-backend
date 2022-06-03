@@ -1,0 +1,24 @@
+{
+  "mentores": [
+    {
+      "nombre": "Oscar",
+      "edad": 23,
+      "genero": "masculino"
+    },
+    {
+      "nombre": "Alan",
+      "edad": 33,
+      "genero": "masculino"
+    },
+    {
+      "nombre": "Ivan",
+      "edad": 22,
+      "genero": "masculino"
+    },
+    {
+      "nombre": "Ale",
+      "edad": 23,
+      "genero": "femenino"
+    }
+  ]
+}
