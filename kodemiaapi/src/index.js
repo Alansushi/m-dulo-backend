@@ -6,6 +6,7 @@ const { get } = require("express/lib/response")
 const mongoose = require("mongoose")
 
 const koderRouter = require("./routers/koder.router")
+const userRouter = require("./routers/user.router")
 //inicializamos constantes con la configuración
 const PORT = process.env.PORT
 const DB_USER = process.env.DB_USER
@@ -19,6 +20,7 @@ const app = express()
 app.use(express.json());
 
 app.use("/koders",koderRouter)
+app.use("/users",userRouter)
 
 
 
